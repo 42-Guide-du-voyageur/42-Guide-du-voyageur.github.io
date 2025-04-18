@@ -1,0 +1,5 @@
+title: 42 - Guide du voyageur 
+description: Partage de cours & activités
+theme: minima       # thème simple et responsive inclus par défaut
+plugins:
+  - jekyll-seo-tag  # pour améliorer le référencement
